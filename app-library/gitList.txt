@@ -7,7 +7,6 @@ https://github.com/phnmnl/container-iso2flux.git
 https://github.com/phnmnl/container-isodyn.git
 https://github.com/phnmnl/container-biosigner.git
 https://github.com/phnmnl/container-lcmsmatching.git
-https://github.com/phnmnl/container-phenomenal-branded-galaxy.git
 https://github.com/phnmnl/container-galaxy-k8s-runtime.git
 https://github.com/phnmnl/container-ipo.git
 https://github.com/phnmnl/container-mtbl-labs-uploader.git
@@ -26,6 +25,7 @@ https://github.com/phnmnl/container-metfrag-cli.git
 https://github.com/phnmnl/container-MetaboliteIDConverter.git
 https://github.com/phnmnl/container-batman.git
 https://github.com/phnmnl/container-xcms.git
+https://github.com/phnmnl/container-xcms-1.x.git
 https://github.com/phnmnl/container-mtbls-dwnld.git
 https://github.com/phnmnl/container-ramid.git
 https://github.com/phnmnl/container-phenomenal-portal.git
