@@ -56,7 +56,6 @@ https://github.com/phnmnl/container-batch_correction.git
 https://github.com/phnmnl/container-qualitymetrics.git
 https://github.com/phnmnl/container-bruker2batman.git
 https://github.com/phnmnl/container-passatutto.git
-https://github.com/phnmnl/container-passatuttopep.git
 https://github.com/phnmnl/container-pathwayEnrichment.git
 https://github.com/phnmnl/container-tool-generic_filter.git
 https://github.com/phnmnl/container-dimspy.git
