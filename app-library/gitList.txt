@@ -50,7 +50,6 @@ https://github.com/phnmnl/container-npc2batman.git
 https://github.com/phnmnl/container-rnmr1d.git
 https://github.com/phnmnl/container-transformation.git
 https://github.com/phnmnl/container-metabolab.git
-https://github.com/phnmnl/container-metams.git
 https://github.com/phnmnl/container-cdf2mid.git
 https://github.com/phnmnl/container-batch_correction.git
 https://github.com/phnmnl/container-qualitymetrics.git
