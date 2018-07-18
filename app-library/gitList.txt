@@ -44,7 +44,6 @@ https://github.com/phnmnl/container-mzml2metfrag.git
 https://github.com/phnmnl/container-nmrml2isa.git
 https://github.com/phnmnl/container-rbase.git
 https://github.com/phnmnl/container-luigi.git
-https://github.com/phnmnl/container-nmrML2isa.git
 https://github.com/phnmnl/container-nmrML2BATMAN.git
 https://github.com/phnmnl/container-npc2batman.git
 https://github.com/phnmnl/container-rnmr1d.git
